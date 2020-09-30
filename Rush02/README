@@ -1,0 +1,11 @@
+### TODO ###
+- Check si la valeur est presente dans le dictionnaire
+- Check si la valeur n'est pas presente en double dans le dictionnaire
+- Hardcoder le retour pour 0 (key 0)
+- FREE toutes les allocations
+- Modifier la logique d'allocation du tableau lors de la decomposition du nomre (ft_input_to_tab : ft_allocate_tab)
+	- Utiliser un malloc **char de size 1 avec un 0 dans ft_allocate_tab
+	- Faire du realloc a chaque nouvel ajout dans l array dans la fonction ft_add_to_tab
+
+### BUGS ###
+- '0' segfault

@@ -1,0 +1,5 @@
+Credentials cache: API:ECBA79A4-8D8F-4E7E-B1D0-01ABCE688467
+        Principal: calide-n@42.FR
+
+  Issued                Expires               Principal
+Sep  7 19:15:25 2020  Sep 14 19:15:25 2020  krbtgt/42.FR@42.FR
